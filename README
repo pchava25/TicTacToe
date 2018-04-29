@@ -1,1 +1,1 @@
-Tic Tac Toe game using minimax algorithm.
+Tic Tac Toe game for 1-player/2-player using minimax algorithm. Optimized the algorithm using Apla Beta Pruning.
